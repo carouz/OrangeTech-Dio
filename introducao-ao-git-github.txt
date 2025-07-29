@@ -1,0 +1,35 @@
+	INTRODUÇÃO AO GIT/GITHUB
+
+	 Git - É um sistema de controle de versão. Ele serve para registrar o histórico de alterações de documentos. Com o git é possível:
+
+		- Trabalhar em equipe sem bagunçar o processo;
+
+		- Voltar para versões anteriores do documento;
+
+		- Criar ramificações (branches).
+
+	GitHub - É uma plataforma para armazenar os repositórios (pastas) git.
+
+	COMANDOS BÁSICOS NO TERMINAL PARA TRABALHAR COM O GIT (WINDOWS)
+
+		- DIR = Lista todas as PASTAS no diretório atual;
+
+		- LS = Lista todos os ARQUIVOS no diretório atual;
+
+		- CD = Indica o caminho que vamos seguir no terminal (Command Director);
+	
+		- CD .. = Volta para a pasta anterior;
+	
+		- CD / = Volta para a raiz do diretório;
+		
+		- CLEAR ou CTRL + L = Limpa a tela do terminal;
+	
+		- MKDIR = Cria repositórios;
+	
+		- DEL = Deleta ARQUIVOS;
+	
+		- RMDIR = Deleta REPOSITÓRIOS;
+		
+		- ECHO = Printa na tela o texto digitado após o comando;
+	
+		- ECHO + NOME DO ARQUIVO = Joga o texto digitado após o comando em um arquivo novo (Caso já exista algum arquivo com o nome digitado, é feita a atualização com o texto digitado);
