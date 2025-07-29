@@ -33,3 +33,16 @@
 		- ECHO = Printa na tela o texto digitado após o comando;
 	
 		- ECHO + NOME DO ARQUIVO = Joga o texto digitado após o comando em um arquivo novo (Caso já exista algum arquivo com o nome digitado, é feita a atualização com o texto digitado);
+
+	COMANDOS DE VINCULAÇÃO GIT > GITHUB
+
+		- GIT CLONE = Clona o repositório do GitHub na máquina local;
+	
+		- GIT STATUS = Retorna o status atual do repositório. Indica se há algum documento alterado que necessita de commit, etc...
+
+		- GIT ADD . = Adiciona os arquivos alterados para a "fila" do próximo commit;
+
+		- GIT COMMIT -M "Mensagem para atualização do repositório" = Sobe todos os arquivos atualizados na nuvem (GitHub). É necessário que a mensagem para atualização do repositório seja clara, para evitar transtornos futuros;
+
+		- GIT PUSH ORIGIN MAIN = Atualiza o repositório com todos os commits realizados;
+
