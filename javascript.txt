@@ -1,0 +1,10 @@
+	JAVASCRIPT
+
+	Existem dois tipos de variáveis para se utilizar no JavaScript.
+	
+		LET = São os tipos de variáveis inteiras;
+		CONST = Variáveis constante (Não é possível fazer a alteração de seu valor).
+
+	console.log() = Serve para printar na tela a mensagem escrita dentro dos parênteses. Ela pode ser um texto, sendo escrita dentro de "aspas duplas", e pode ser também o valor de uma variável indicando seu nome.
+
+	.toFixed() = Serve para transformarmos nossa variável em um texto. É utilizada para arredondar valores quebrados. Por exemplo, se indicarmos .toFixed(2), ao printar o valor da variável na tela, será exibido apenas duas casas após a vírgula.
